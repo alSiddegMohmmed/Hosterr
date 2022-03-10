@@ -274,27 +274,27 @@ body{
 /* adding medila query for tablet */
 
 @media only screen and (max-width: 1034px) and (min-width: 685px) {
-    .navbar{
+    .navbar {
         justify-content: space-between;
         margin: 0px 15px;
 
     }
-    .nav-menue{
+    .nav-menue {
         display: none;
     }
-    .login-signup{
+    .login-signup {
         display: none;
     }
 
-    .hamburger-icon{
+    .hamburger-icon {
         display: block;
     }
 
-    .content{
+    .content {
         flex-direction: column-reverse;
     }
 
-    .left{
+    .left {
         width: 100%;
     }
     .right {
@@ -312,30 +312,30 @@ body{
 
 @media only screen and (max-width: 685px) {
 
-    .navbar{
+    .navbar {
         justify-content: space-between;
         margin: 0px 15px;
 
     }
-    .nav-menue{
+    .nav-menue {
         display: none;
     }
-    .login-signup{
+    .login-signup {
         display: none;
     }
-    .logo{
+    .logo {
         margin: 0px 10px;
     }
 
-    .hamburger-icon{
+    .hamburger-icon {
         display: block;
     }
 
-    .content{
+    .content {
         flex-direction: column-reverse;
     }
 
-    .email input:focus{
+    .email input:focus {
         margin-bottom: 5px;
     }
     .left{
@@ -353,17 +353,17 @@ body{
         left: 33%;
     }
 
-    .content{
+    .content {
         margin-bottom: 20px;
     }
 
-    .email{
+    .email {
         flex-direction: column;
         justify-content: center;
         align-items: initial;
     }
 
-    .footer{
+    .footer {
         flex-direction: column;
         align-items:flex-start ;
         justify-content: flex-start;
@@ -371,7 +371,7 @@ body{
         margin: 11px 22px;
     }
 
-    .link{
+    .link {
         margin: 5px 0px 55px 0px;
     }
 
